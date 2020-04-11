@@ -6,7 +6,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-	<title>테스트입니다.</title>
+	<title>테스트 입니다.</title>
 </head>
 
 <body>
